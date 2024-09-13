@@ -63,7 +63,7 @@ This is a simple **Flappy Bird** game built using **Java** and **Swing**. The pl
 
 
 ### Gameplay
-![Flappy_gamee](https://github.com/user-attachments/assets/8e554951-5d93-4a30-991e-e2c4606aab37)
+![Flappyy_bird](https://github.com/user-attachments/assets/89d30fb2-a956-4612-8872-ce0c6eb12cf8)
 
 ## Contributing
 

@@ -3,7 +3,7 @@
 
 This is a simple **Flappy Bird** game built using **Java** and **Swing**. The player controls the bird to fly between sets of pipes by pressing the spacebar.
 
-![Flappy Bird Gameplay](https://github.com/Ganeshhhhh/Flappy_bird/blob/main/images/gameplay.png)
+
 
 ## Features
 - Classic Flappy Bird gameplay mechanics.
@@ -61,13 +61,9 @@ This is a simple **Flappy Bird** game built using **Java** and **Swing**. The pl
 
 - **Press the Spacebar** to make the bird jump.
 
-## Screenshots
-
-### Main Screen
-![Main Screen](https://github.com/Ganeshhhhh/Flappy_bird/blob/main/images/main_screen.png)
 
 ### Gameplay
-![Gameplay](https://github.com/user-attachments/assets/6e550d83-3538-41f2-a995-59198c7007a2)
+![Flappy_gamee](https://github.com/user-attachments/assets/8e554951-5d93-4a30-991e-e2c4606aab37)
 
 ## Contributing
 
